@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 <!--
 **Ryuk996/Ryuk996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
