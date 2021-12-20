@@ -8,14 +8,14 @@
   <img align="left" alt="Prudhvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
- <a href="https://prudhvignv.github.io/" align="left" > My portfolio : prudhvignv.github.io </a> 
+ <a href="https://prudhvignv.github.io/" align="left" > My portfolio : https://thiru-portfolio.netlify.app </a> 
 <br />
 <br />
 
 ## 🤵 About_Me
 
-Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer science. Enthusiastic in Data science and web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.Intern at TheSmartbridge in Machine learning and deep learning and experienced real time Industry projects.
-
+Hi, I'm Thirunavukkarasu,a full stack web developer.< I like to work with ReactJs ,nodeJs ,Amazon AWS ,MongoDb ,Express ,Firebase />.
+Enthusiastic in developing creative and interactive web developments. Looking for opportunities to work in  Innovative Companies. Fascinated in solving problems and accepting new challenges.
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
@@ -33,13 +33,12 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 -  DBMS, MySQL, MongoDB
 -  libraries: Keras, OpenCv, Scikit-learn, Numpy, Pandas, Matplotlib
 
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: prudhvi.gnv@gmail.com
+
 
 &nbsp;
 
 
-![Prudhvi's github stats](https://github-readme-stats.vercel.app/api?username=Ryuk996&show_icons=true&hide_border=true)
+![Ryuk's github stats](https://github-readme-stats.vercel.app/api?username=Ryuk996&show_icons=true&hide_border=true)
 
 :pushpin: Star and Fork this [README](https://github.com/Ryuk996/Ryuk996) :pencil:
 
@@ -100,13 +99,13 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
   <a href="https://redux.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
   </a> 
- <!--  <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
+   <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tailwindcss-0769AD.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss"/> 
   </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
-  </a>-->
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://img.shields.io/badge/sass-8DD6F9.svg?style=for-the-badge&logo=sass&logoColor=black"
+      alt="sass"/>
+  </a>
 </p>
 
 <h3 align="center">Backend</h3>
