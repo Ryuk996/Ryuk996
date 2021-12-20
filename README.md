@@ -41,7 +41,7 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 
 :pushpin: Star and Fork this [README](https://github.com/Ryuk996/Ryuk996) :pencil:
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<h2 align="center"><u><b>Tech Stacks, I work with</b></u></h2>
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
@@ -138,8 +138,8 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 </p>
 
 <h3 align="center">Database</h3>
-<!--<p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
+<p align="center">
+<!--  <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="postgresql"/> 
   </a>
@@ -160,7 +160,7 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/Amazon-AWS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="amazonaws"/> 
+    <img  src="https://img.shields.io/badge/Amazon-AWS-0078D4?style=for-the-badge&logo=amazonaws&logoColor=white" alt="amazonaws"/> 
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
