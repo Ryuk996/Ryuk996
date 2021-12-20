@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Thirunavukkarasu!](https://github.com/Ryuk996)
 
-<!--
+
 <a href="https://www.linkedin.com/in/prudhvignv/">
   <img align="left" alt="Prudhvi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -63,7 +63,7 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 -----
 Credits: [Thirunavukkarasu](https://github.com/Ryuk996)
 
-Last Edited on: 30/08/2020 -->
+Last Edited on: 30/08/2020 
 <!--### Hi there 👋
 <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />-->
 <!--
