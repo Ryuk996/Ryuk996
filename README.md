@@ -38,9 +38,9 @@ Enthusiastic in developing creative and interactive web developments. Looking fo
 &nbsp;
 
 
-![Ryuk's github stats](https://github-readme-stats.vercel.app/api?username=Ryuk996&show_icons=true&hide_border=true)
+<!--[Ryuk's github stats](https://github-readme-stats.vercel.app/api?username=Ryuk996&show_icons=true&hide_border=true)
 
-:pushpin: Star and Fork this [README](https://github.com/Ryuk996/Ryuk996) :pencil:
+:pushpin: Star and Fork this [README](https://github.com/Ryuk996/Ryuk996) :pencil:-->
 
 <h2 align="center"><u><b>Tech Stacks, I work with</b></u></h2>
 
@@ -175,7 +175,10 @@ Enthusiastic in developing creative and interactive web developments. Looking fo
   </a> 
 </p>
 
+## 📈 Github_Stats
 
+<a href="https://github.com/Ryuk996"><img alt="Thirunavukkarasu's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Ryuk996&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
+<a href="https://github.com/thesaravanakumar"><img alt="Thirunavukkarasu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuk996&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
 
 
 <!--💻 Recent projects in which I have contributed in my [github](https://github.com/PrudhviGNV/)
