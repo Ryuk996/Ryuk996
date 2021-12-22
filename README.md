@@ -1,14 +1,14 @@
 ### Hey 👋, I'm Thirunavukkarasu!](https://github.com/Ryuk996)
 
 
-<a href="https://www.linkedin.com/in/prudhvignv/">
-  <img align="left" alt="Prudhvi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/thirunavukkarasu-kumaravel-a71b35147">
+  <img align="left" alt="Thirunavukkarasu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/prudhvi_gnv/">
-  <img align="left" alt="Prudhvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/rajuthirunavukkarasu/?r=nametag">
+  <img align="left" alt="Thirunavukkarasu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
- <a href="https://prudhvignv.github.io/" align="left" > My portfolio : https://thiru-portfolio.netlify.app </a> 
+ <a href="https://thiru-portfolio.netlify.app" align="left" > My portfolio : https://thiru-portfolio.netlify.app </a> 
 <br />
 <br />
 
@@ -23,15 +23,16 @@ Enthusiastic in developing creative and interactive web developments. Looking fo
 
  <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-**Talking about Education/Skills:**
+****
 
-- 🎓 Graduating in 2021 from Gudlavalleru Enginering College
--  python 
--  Data Science , Machine Learning, Deep Learning and Web development
-- Python , Java, JavaScript, C, C#
--  Html, CSS, Java Script, JQuery, BootStrap, React
--  DBMS, MySQL, MongoDB
--  libraries: Keras, OpenCv, Scikit-learn, Numpy, Pandas, Matplotlib
+- 🌱 I'm currently learning everything about web development and ai.
+- ⛹  A creative species,an anime tribe , wanderlust.
+- 📝 Craves for new learnings and a team player.
+- 💬 Talk to me about Technology, Space and Politics
+- 😄 Pronouns: He/Him
+- 👯 I’m looking to collaborate on Web development
+  
+
 
 
 
